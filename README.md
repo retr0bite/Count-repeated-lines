@@ -1,5 +1,6 @@
 # Count-repeated-lines
-It counts the lines repeated vertically and tells you the name of the file that you pass as a parameter to the program
+Its a simple programm
+counts the lines repeated vertically and tells you the name of the file that you pass as a parameter to the program
 
 please use: "main.go PATH/text.txt", for use it
 
